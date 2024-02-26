@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hamimbusra
-- 👀 I’m interested in MERN Stack Development
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on MERN Stack
 - 📫 How to reach me ...
